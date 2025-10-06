@@ -1,6 +1,6 @@
 package lab2;
 
-public class Vehicle {
+public abstract class Vehicle {
     private String manufacturer;
     private String model;
     private int year;
